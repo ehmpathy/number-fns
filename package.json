@@ -2,7 +2,7 @@
   "name": "number-fns",
   "author": "ehmpathy",
   "description": "A glossary of intuitive, universally unambiguous **number** resources and mechanisms.",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "repository": "ehmpathy/number-fns",
   "homepage": "https://github.com/ehmpathy/number-fns",
   "keywords": [
